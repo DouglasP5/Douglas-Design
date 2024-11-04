@@ -1,0 +1,26 @@
+.card2 figure{
+align-items: center;
+}
+
+.card2 span{
+    color: #2667BF;
+padding: 12px;
+height: 15px;
+background-color: #BFDAFF;
+font-family: inter;
+font-size: 8px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+}  
+.card2{
+display: flex;
+width: 268px;
+padding: 12px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 10px;
+background-color: rgb(238, 238, 238);
+}
